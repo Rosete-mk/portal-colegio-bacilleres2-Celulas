@@ -1,0 +1,72 @@
+.morado{
+	color:blueviolet;
+	font-size: 2em;
+	font-family: monospace;
+}
+.cine{
+	color:burlywood;
+	font-size: 1;
+	font-family:cursive;
+}
+.libro{
+	color:darkseagreen;
+	font-size: 1;
+	font-family: inherit;
+}
+.auto{
+	color:darksalmon;
+	font-size: 1;
+	font-family: inherit;
+}
+.hobbies{
+	color:crimson;
+	font-size: 2;
+	font-family:cursive;
+}
+.escuela{
+	color:cadetblue;
+	font-size: 1;
+	font-family: sans-serif;
+}
+.deb1{
+    color: blueviolet;
+    text-align: center;
+    border-style: double;
+    border-width: 3px;
+    border-color: brown;
+}
+.deb2{
+    color:darkblue;
+    text-align: right;
+     border-style: outset;
+    border-width: 3px;
+    border-color:coral;
+}
+.deb3{
+    color:darkcyan;
+    text-align: left;
+     border-style: inset;
+    border-width: 3px;
+    border-color:darksalmon;
+}
+.for1{
+    color:darkorange;
+    text-align: left;
+    border-style: solid;
+    border-width: 3px;
+    border-color:deepskyblue;
+}
+.for2{
+    color:blue;
+    text-align: right;
+     border-style: dotted;
+    border-width: 3px;
+    border-color: cadetblue;
+}
+.for3{
+    color:fuchsia
+    text-align: center;
+    border-style: dashed;
+    border-width: 3px;
+    border-color:darkcyan;
+}
